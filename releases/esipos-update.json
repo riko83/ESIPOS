@@ -1,1 +1,12 @@
+{
+  "version": "1.0.1",
+  "notes": "- Përditësim i parë automatik",
+  "pub_date": "2026-03-08T20:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUJKQS9mdEF5bDdLRCtaMzJJYndMVWd0NlZVei9jS3Rzd1BSbklWcm5YMnJxbkI1K1hiR2FCRGVScWVBeXFIbDQ2bTkvbnRCN3ZYSVJWZ1QrZER4bFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDAzNzY5CWZpbGU6RVNJUE9TXzEuMC4xX3g2NF9lbi1VUy5tc2kKdWdNY2VhQnkzZ080cno2TC93M2hLYmVSMG9CeFpBVUlRZENiZE9zSWtjSU1sWjdZVXlicGl6YjUzeEkwQ2x1VzE4SEFBdks3R09MZWRXTUNQUGZxQXc9PQo="
+    }
+  }
+}
 
