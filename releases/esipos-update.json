@@ -4,7 +4,7 @@
   "pub_date": "2026-03-08T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.5_x64_en-US.msi",
+      "url": "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.6_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUcyREp2cXU2UkpRb3FFVE0ybGJLQ1JzbFQycjdMSFVhTVNnREgxci9oTnNlcHpxN0kyQnNLeFRXQTkrZnU3czl1WjNNSHZOLzV2dWxEbnJRNTRwNmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQwMzgzCWZpbGU6RVNJUE9TXzEuMC41X3g2NF9lbi1VUy5tc2kKK2FjcEhGcW1rN1dCVG1iWkFUVFp5MWh1NGUxN0MxcU5VTmt6V014Ynl6bUpNekVDNXBEYnF0c1VWUzRRMThJVHErb1lnUHkzUmZwc0QrZlRJa3czQUE9PQo="
     }
   }
