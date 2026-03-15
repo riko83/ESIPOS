@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": "- Shtim i print fatura fiskale",
   "pub_date": "2026-03-08T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.6_x64_en-US.msi",
+      "url": "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.7_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZU1oV0swRWUxdVB3S01sTmFJdWdOS1NQOGpXWm8yb1ovN2JOMHp6QjVkY1dSVE1ZU3BRa1kxbjJHUi9JWVRWME5sTXJ5Mk1CNFpIV1JsVzVXQmQ1cndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTkxOTQxCWZpbGU6RVNJUE9TXzEuMC42X3g2NF9lbi1VUy5tc2kKeTNJdDFCZFA2OGh0WW5tRXY4Y1NTelFjQnU0QkE0OCtnSFlzR1pZQmVIR2FZb3haTzgyaC9wMnVwMGdyaSttejRKSy90akFPVDlaU3laRVRjeDlvQWc9PQo="
     }
   }
