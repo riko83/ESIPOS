@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.18",
+    "version":  "1.0.19",
     "notes":  "- Perditesim i ri",
-    "pub_date":  "2026-04-20T19:07:01Z",
+    "pub_date":  "2026-05-02T18:49:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.18_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUh4YUN1Lzhzc1J6OTBiNmVXTGJ3V0hoemxhQjJpNXlDb3hZL2ZOZmduWWdGZkFRQWFtbWp5Vk9oaWxFNUlhZXBReTJOb2RYS2tZSXlHRFFKVTUzM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzEyMDIwCWZpbGU6RVNJUE9TXzEuMC4xOF94NjRfZW4tVVMubXNpCkNNVlVNbWlqUVlFZEF5QnFXMm9JVnZkTGdqREhKdUpmYzBMaXg2bGdKcEJyUGIvR24zdkhYS1RJRmJ1VXRwM09oc3AyR3g4cUwyRUdBaTJMc1IyQkRBPT0K"
+                                             "url":  "https://github.com/riko83/ESIPOS/releases/download/v1.0.1/ESIPOS_1.0.19_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUYzdm9ydnhSS0JoWnJHdHlSY1BDYWh4Q1RyNzk2MFRYY1JjSklpVlhMZVhDZlV4S3JoU0ZSM2NaOVUwamhJeDMwa3RYYjVLcm1kUzdXQU40Z3JFV2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzQ3NzYxCWZpbGU6RVNJUE9TXzEuMC4xOV94NjRfZW4tVVMubXNpCldnZk5qRTIzck1vTldvY0hnUWpEaHRZNDY5ZCtBeEt6Nlo4UGQrYUp2ZnBJOUZWbzlEKzV6NWhNNE9zMHRIUXRDU3BYRzc5TTlHNUE4VjlCNGNGdURnPT0K"
                                          }
                   }
 }
